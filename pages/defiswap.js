@@ -26,7 +26,7 @@ export default function Defiswap() {
 
     const config = {
       apiKey: "NE7dJ9mzcFXyMHA_1V_wzfZqvLL-A0ve",
-      network: Network.ETH_MAINNET,
+      network: Network.MATIC_MAINNET,
     };
 
     const alchemy = new Alchemy(config);
