@@ -25,7 +25,7 @@ export default function Defiswap() {
     const [ alert, setAlert ] = useState(false);
 
     const config = {
-      apiKey: "PLACE YOUR API KEY",
+      apiKey: "NE7dJ9mzcFXyMHA_1V_wzfZqvLL-A0ve",
       network: Network.ETH_MAINNET,
     };
 
